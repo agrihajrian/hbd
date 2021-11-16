@@ -1,5 +1,5 @@
 function showDiv() {document.getElementById('slider').style.opacity = "1"; document.getElementById('konten').style.top = "0";document.querySelector("body").style.animation = "anim 9s ease infinite";}
-  function tombol() {document.getElementById('tombWA').style.margin = "0";document.getElementById('tombWA').style.visibility = "visible";document.getElementById('tombWA').style.opacity = "1";}  
+  function tombol() {document.getElementById('tombWA').style.margin = "20% 0 0 0";document.getElementById('tombWA').style.visibility = "visible";document.getElementById('tombWA').style.opacity = "1";}  
 
 async function duar(){
 await swals.fire('Maacii udah mau jadi pacar aku ><');duar2();
